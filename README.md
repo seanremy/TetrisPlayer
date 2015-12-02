@@ -1,5 +1,6 @@
 # TetrisPlayer
 Authors: Sean Foley, Bryce Lenhart
+
 Java  program that uses a Prolog theory to play Tetris on an emulated gameboy.
 Completed as my term project for Symbolic Programming class under Dr. Potter at UGA
 
